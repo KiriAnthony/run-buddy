@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body {
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
@@ -65,4 +66,10 @@ footer div {
 
 footer a {
     color: #024e76;
+}
+
+/* apply a style to the hero*/
+section {
+    padding: 60px;
+    background-image: url("..\images\hero-bg.jpg");
 }
