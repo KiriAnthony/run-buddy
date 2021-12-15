@@ -74,7 +74,7 @@ section {
 }
 
 .hero {
-    background-image: url("hero-bg.jpg"); /*update file location with correct url??*/
+    background-image: url('../images/hero-bg.jpg'); /*ask about paths during tutoring hours*/
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -109,4 +109,16 @@ section {
     color: #024e76;
     width: 100%;
     margin-bottom: 15px;
+}
+
+.hero-form label {
+    margin: 0 5px;
+}
+
+.hero-form button {
+    background-color: #024e76;
+    color: #fce138;
+    padding: 10px 20px;
+    border: none;
+    font-size: 16px;
 }
