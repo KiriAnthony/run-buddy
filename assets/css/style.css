@@ -43,6 +43,7 @@ header nav ul li a {
     font-weight: lighter;
     font-size: 22 px;
 }
+/* End Header Style */
 
 /* apply style to <footer> */
 footer {
@@ -73,8 +74,9 @@ section {
     padding: 60px;
 }
 
+/* homepage hero */
 .hero {
-    background-image: url('../images/hero-bg.jpg'); /*ask about paths during tutoring hours*/
+    background-image: url('../images/hero-bg.jpg');
     height: 600px;
     background-size: cover;
     background-position: center;
