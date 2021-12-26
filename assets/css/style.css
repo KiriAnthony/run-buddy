@@ -46,7 +46,7 @@ header nav ul {
 header nav ul li a {
     padding: 10px 15px;
     font-weight: lighter;
-    font-size: 1.5vw;
+    font-size: 1.55vw;
 }
 /* End Header Style */
 
@@ -362,7 +362,7 @@ section {
     header nav ul {
         margin-top: 20px;
         width: 100px;
-
+        justify-content: center;
     }
 
     header nav ul li a {
